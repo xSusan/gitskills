@@ -7,4 +7,7 @@ Git is a free software ...
 fixed bug....
 +++
 learn branch manager strategy
+=====
+now learn git stash
+
 
