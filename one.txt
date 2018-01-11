@@ -1,6 +1,10 @@
 
 this ia a txt
+
+this is ~/gitskills/dev
+
 this is jia
 
 now test ~/gitskills/dev
 
+this is on ~/2/gitskills/dev
