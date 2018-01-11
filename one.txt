@@ -2,3 +2,5 @@
 this ia a txt
 this is jia
 
+now test ~/gitskills/dev
+
