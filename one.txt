@@ -1,2 +1,9 @@
 
 this ia a txt
+
+this is ~/gitskills/dev
+
+this is jia
+
+this is on ~/2/gitskills/dev
+
